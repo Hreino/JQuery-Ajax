@@ -1,0 +1,13 @@
+.divmos{
+    border: 1px solid brown;
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+}
+
+.borde{
+    border: solid 2px black;
+    width: 300px;
+    height: 300px;
+
+}
